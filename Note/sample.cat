@@ -1,0 +1,33 @@
+#CATEGORY_DATE_CREATED:Sat Oct 21 16:05:59 IST 2017
+
+#NOTE_TITLE:sample note 1
+NOTE_DESCRIPTION:this is sample note 1 description
+NOTE_TAG:first,check
+NOTE_STATUS:STARTED
+NOTE_REMAINDER:Sat Oct 21 00:00:00 IST 2017
+NOTE_CREATED_ON:Sat Oct 21 16:09:53 IST 2017
+@endNote
+
+#NOTE_TITLE:sample note 2
+NOTE_DESCRIPTION:this is description of sample note 2 without remainder
+NOTE_TAG:second,check
+NOTE_STATUS:INPROGRESS
+NOTE_CREATED_ON:Sat Oct 21 16:13:55 IST 2017
+@endNote
+
+
+#NOTE_TITLE:sample note 3
+NOTE_DESCRIPTION:this note is to check for future date
+NOTE_TAG:check,futuredate
+NOTE_STATUS:INPROGRESS
+NOTE_REMAINDER:Sun Oct 22 00:00:00 IST 2017
+NOTE_CREATED_ON:Sat Oct 21 16:49:54 IST 2017
+@endNote
+
+#NOTE_TITLE:smaple note
+NOTE_DESCRIPTION:this note is to check again for today's date remainder
+NOTE_TAG:again,check
+NOTE_STATUS:INPROGRESS
+NOTE_REMAINDER:Sat Oct 21 00:00:00 IST 2017
+NOTE_CREATED_ON:Sat Oct 21 16:52:38 IST 2017
+@endNote
